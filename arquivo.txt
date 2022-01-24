@@ -1,3 +1,6 @@
+
 oi repositorio, tudo bem?
  - HTML
  - CSS
+ - Python
+
